@@ -99,6 +99,8 @@ public class MainActivity extends Activity implements OnClickListener,OnTouchLis
 
 	@Override
 	public void onClick(View v) {
+		
+		
 		// TODO Auto-generated method stub
 	//	imageview_canvas.drawLine(50, 50, 50, 1000, imageview_paint);
 	//	imageview_canvas.drawLine(0, 0, 1000, 1000, imageview_paint);
